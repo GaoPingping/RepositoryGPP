@@ -13,7 +13,16 @@ public class HellowWorld {
   public void eat2()
   {
     System.out.println("！");
+
+
   }
+
+  public void eat3git()
+  {
+    System.out.println("！");
+  }
+
+
 
 
 }
