@@ -12,7 +12,7 @@ public class HellowWorld {
 
   public void eat2()
   {
-    System.out.println("我的第一个git项目！");
+    System.out.println("！");
   }
 
 
